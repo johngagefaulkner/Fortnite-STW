@@ -1,0 +1,819 @@
+[
+  {
+    "Month": "September",
+    "LastReleaseDate": "Sept 4th, 2022",
+    "EventStoreContent": "Ragnarok",
+    "Questlines": [
+      {
+        "QuestName": "Wolfy Business",
+        "StartDate": "Start_Date_Here",
+        "EndDate": "End_Date_Here",
+        "Icon": "Icon_URL_Here",
+        "QuestDescription": "Description_Here",
+        "QuestSteps": [
+          "Step1",
+          "Step2",
+          "Step3"
+        ],
+        "Rewards": [
+          {
+            "ItemName": "Dire",
+            "Description": "Complete the 'Wolfy Business' Questline"
+          }
+        ]
+      },
+      {
+        "QuestName": "Dungeons",
+        "StartDate": "Start_Date_Here",
+        "EndDate": "End_Date_Here",
+        "Icon": "Icon_URL_Here",
+        "QuestDescription": "Description_Here",
+        "QuestSteps": [
+          "Step1",
+          "Step2",
+          "Step3"
+        ],
+        "Rewards": [
+          {
+            "ItemName": "Jack-O-Launcher",
+            "Description": "Obtainable by collecting all Halloween Survivors."
+          }
+        ]
+      }
+    ],
+    "LTM": [
+      {
+        "QuestName": "Dungeons",
+        "Rewards": "Swamp Knight & Mermonster Ken & Chaos Agent"
+      }
+    ],
+    "EventLlama": [
+      "Fortnitemares Llama"
+    ],
+    "Ventures": "Hexsylvania"
+  },
+  {
+    "Month": "September",
+    "LastReleaseDate": "Sept 11th, 2022",
+    "EventStoreContent": "Plague Doctor Igor",
+    "Questlines": [],
+    "LTM": [],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "September",
+    "LastReleaseDate": "Sept 18th, 2022",
+    "EventStoreContent": "The Black Bade",
+    "Questlines": [],
+    "LTM": [],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "September",
+    "LastReleaseDate": "Sept 25th, 2022",
+    "EventStoreContent": "Husk Grinder, Dirge Song",
+    "Questlines": [
+      {
+        "QuestName": "Door to Darkness Returns",
+        "Rewards": "Willow"
+      }
+    ],
+    "LTM": [],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "October",
+    "LastReleaseDate": "Oct 2nd, 2022",
+    "EventStoreContent": "Jonesee-Bot",
+    "Questlines": [],
+    "LTM": [],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "October",
+    "LastReleaseDate": "Oct 9th, 2022",
+    "EventStoreContent": "Gravedigger",
+    "Questlines": [],
+    "LTM": [],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "October",
+    "LastReleaseDate": "Oct 16th, 2022",
+    "EventStoreContent": "Ghost Pistol, Dusk",
+    "Questlines": [
+      {
+        "QuestName": "Bladey Acres",
+        "Rewards": "Raven"
+      }
+    ],
+    "LTM": [],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "October",
+    "LastReleaseDate": "Oct 23rd, 2022",
+    "EventStoreContent": "Bloodfinder A.C.",
+    "Questlines": [],
+    "LTM": [],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "October",
+    "LastReleaseDate": "Oct 30th, 2022",
+    "EventStoreContent": "Candy Corn LMG, Spectral Blade",
+    "Questlines": [
+      {
+        "QuestName": "Match Maker",
+        "Rewards": "Arleen Izza"
+      }
+    ],
+    "LTM": [
+      {
+        "QuestName": "Cram Session",
+        "Rewards": ""
+      }
+    ],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "November",
+    "LastReleaseDate": "Nov 6th, 2022",
+    "EventStoreContent": "Clip",
+    "Questlines": [],
+    "LTM": [],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "November",
+    "LastReleaseDate": "Nov 13th, 2022",
+    "EventStoreContent": "Metal Marauder",
+    "Questlines": [],
+    "LTM": [],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "November",
+    "LastReleaseDate": "Nov 20th, 2022",
+    "EventStoreContent": "Subzero Zenith",
+    "Questlines": [
+      {
+        "QuestName": "Holly Jolly Ransom questline",
+        "Rewards": "Crackshot"
+      }
+    ],
+    "LTM": [
+      {
+        "QuestName": "Frostnite",
+        "Rewards": [
+          "Ice King",
+          "Paper Shredder",
+          "Sentry Gunner Krampus",
+          "Frostnite 128 banner"
+        ]
+      }
+    ],
+    "EventLlama": [
+      "Holiday Llama"
+    ],
+    "Ventures": "Winterfest"
+  },
+  {
+    "Month": "November",
+    "LastReleaseDate": "Nov 27th, 2022",
+    "EventStoreContent": "Lynx",
+    "Questlines": [],
+    "LTM": [
+      {
+        "QuestName": {
+          "Title": "Frostnite",
+          "ActiveChallenge": "Frosty Turf Challenge"
+        },
+        "Rewards": [
+          {
+            "Name": "Tank",
+            "Type": "Hero"
+          },
+          {
+            "Name": "Frosty Turf banner",
+            "Type": "Banner"
+          }
+        ]
+      }
+    ],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "December",
+    "LastReleaseDate": "Dec 4th, 2022",
+    "EventStoreContent": "Black Knight Garridan",
+    "Questlines": [],
+    "LTM": [
+      {
+        "QuestName": "Frostnite/Merry Melee Challenge",
+        "Rewards": "Frostbite Sniper & Merry Melee banner"
+      }
+    ],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "December",
+    "LastReleaseDate": "Dec 11th, 2022",
+    "EventStoreContent": [
+      {
+        "Name": "Ice Queen",
+        "Type": "Hero",
+        "Cost": "2800"
+      },
+      {
+        "Name": "Cocoa.45",
+        "Type": "Weapon",
+        "Cost": "1680"
+      }
+    ],
+    "Questlines": [
+      {
+        "QuestName": "Misfit Toys questline",
+        "Rewards": "Jilly Teacup"
+      }
+    ],
+    "LTM": [
+      {
+        "QuestName": "Frostnite/New Wave Holiday Challenge",
+        "Rewards": "Jingle Jess & New Wave Holiday banner"
+      }
+    ],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "December",
+    "LastReleaseDate": "Dec 18th, 2020",
+    "EventStoreContent": "Pain Train",
+    "Questlines": [],
+    "LTM": [
+      {
+        "QuestName": "Frostnite/Superheated Challenge",
+        "Rewards": "Ginger Blaster & Superheated banner"
+      }
+    ],
+    "EventLlama": [
+      "Special llamas available during reset!"
+    ],
+    "Ventures": ""
+  },
+  {
+    "Month": "December",
+    "LastReleaseDate": "Dec 25th, 2020",
+    "EventStoreContent": "Santa's Little Helper",
+    "Questlines": [],
+    "LTM": [
+      {
+        "QuestName": "Frostnite/Special Delivery Challenge",
+        "Rewards": "Ted & Special Delivery banner"
+      }
+    ],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "January",
+    "LastReleaseDate": "Jan 1st, 2022",
+    "EventStoreContent": "Monks",
+    "Questlines": [
+      {
+        "QuestName": "Red Willow's Eve",
+        "Rewards": "Red Willow"
+      }
+    ],
+    "LTM": [
+      {
+        "QuestName": "Frostnite/Top it off Challenge",
+        "Rewards": "Tree of Light & Top it off banner"
+      }
+    ],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "January",
+    "LastReleaseDate": "Jan 8th, 2022",
+    "EventStoreContent": "Cloaked Shadow",
+    "Questlines": [],
+    "LTM": [
+      {
+        "QuestName": "Frostnite/Final Frost Challenge",
+        "Rewards": "Shark Attack & Final Frost banner"
+      }
+    ],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "January",
+    "LastReleaseDate": "Jan 15th, 2022",
+    "EventStoreContent": "Snowball Launcher",
+    "Questlines": [],
+    "LTM": [],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "January",
+    "LastReleaseDate": "Jan 24th, 2022",
+    "EventStoreContent": "Wukong, The Dragon's Fist",
+    "Questlines": [
+      {
+        "QuestName": "No dancing",
+        "Rewards": "Stoneheart Farrah"
+      }
+    ],
+    "LTM": [
+      {
+        "QuestName": "War Games",
+        "Rewards": ""
+      }
+    ],
+    "EventLlama": [
+      "Lunar"
+    ],
+    "Ventures": "Mild Meadows"
+  },
+  {
+    "Month": "January",
+    "LastReleaseDate": "Jan 31st 2021",
+    "EventStoreContent": "Snuggle Specialist Sarah",
+    "Questlines": [],
+    "LTM": [
+      {
+        "QuestName": "Mist Pods banner",
+        "Rewards": ""
+      }
+    ],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "February",
+    "LastReleaseDate": "Feb 7th, 2022",
+    "EventStoreContent": "Love Ranger Jonesy, Heartbreaker",
+    "Questlines": [
+      {
+        "QuestName": "Blockbuster",
+        "Rewards": "Carbide/Cloaked Star"
+      }
+    ],
+    "LTM": [
+      {
+        "QuestName": "Space Rocks Banner",
+        "Rewards": ""
+      }
+    ],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "February",
+    "LastReleaseDate": "Feb 14th, 2022",
+    "EventStoreContent": "Anti-Cuddle Sarah",
+    "Questlines": [],
+    "LTM": [
+      {
+        "QuestName": "Hexed Banner",
+        "Rewards": ""
+      }
+    ],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "February",
+    "LastReleaseDate": "Feb 21st, 2022",
+    "EventStoreContent": "Dashing Hawk, Love Song Bow",
+    "Questlines": [],
+    "LTM": [
+      {
+        "QuestName": "Invasion Banner",
+        "Rewards": ""
+      }
+    ],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "February",
+    "LastReleaseDate": "Feb 27th, 2022",
+    "EventStoreContent": "Fallen Love Ranger Jonesy",
+    "Questlines": [
+      {
+        "QuestName": "Valor Questline",
+        "Rewards": "Val (defender)/Major Oswald"
+      }
+    ],
+    "LTM": [
+      {
+        "QuestName": "Quantum Countdown Banner",
+        "Rewards": ""
+      }
+    ],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "March",
+    "LastReleaseDate": "Mar 6th, 2022",
+    "EventStoreContent": "Battle Hound Jonesy",
+    "Questlines": [],
+    "LTM": [
+      {
+        "QuestName": "ShortCut Banner",
+        "Rewards": ""
+      }
+    ],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "March",
+    "LastReleaseDate": "Mar 13th, 2022",
+    "EventStoreContent": "Staredown Southie",
+    "Questlines": [],
+    "LTM": [
+      {
+        "QuestName": "Cram Session/ Meltdown Banner",
+        "Rewards": ""
+      }
+    ],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "March",
+    "LastReleaseDate": "Mar 20th, 2022",
+    "EventStoreContent": "Four Leaf Wildcat",
+    "Questlines": [],
+    "LTM": [
+      {
+        "QuestName": "Double Trouble Banner",
+        "Rewards": ""
+      }
+    ],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "March",
+    "LastReleaseDate": "Mar 27th, 2022",
+    "EventStoreContent": "Highland Warrior Wildcat",
+    "Questlines": [],
+    "LTM": [],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "April",
+    "LastReleaseDate": "Apr 3rd, 2022",
+    "EventStoreContent": "Miss Bunny Penny",
+    "Questlines": [
+      {
+        "QuestName": "Yaar Questline",
+        "Rewards": "Blakebeard"
+      }
+    ],
+    "LTM": [
+      {
+        "QuestName": "Dungeons",
+        "Rewards": "Swamp Knight/Mermonster Ken/Chaos Agent"
+      }
+    ],
+    "EventLlama": [
+      "Pirate"
+    ],
+    "Ventures": "Scurvy Shoals"
+  },
+  {
+    "Month": "April",
+    "LastReleaseDate": "Apr 10th, 2022",
+    "EventStoreContent": "Rabbit Raider Jonesy, Cottontail Eagle Eye",
+    "Questlines": [],
+    "LTM": [],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "April",
+    "LastReleaseDate": "Apr 17th, 2022",
+    "EventStoreContent": "Dashing Hare Ken, Easter Egg Launcher",
+    "Questlines": [
+      {
+        "QuestName": "Mini Questline",
+        "Rewards": ""
+      }
+    ],
+    "LTM": [],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "April",
+    "LastReleaseDate": "Apr 24th, 2022",
+    "EventStoreContent": "Bunny Brawler Luna",
+    "Questlines": [],
+    "LTM": [],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "May",
+    "LastReleaseDate": "May 1st, 2022",
+    "EventStoreContent": "Powder Keg bow",
+    "Questlines": [
+      {
+        "QuestName": "Yaar's Return",
+        "Rewards": "Director Riggs"
+      }
+    ],
+    "LTM": [],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "May",
+    "LastReleaseDate": "May 8th, 2022",
+    "EventStoreContent": "Buccaneer Ramirez",
+    "Questlines": [],
+    "LTM": [],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "May",
+    "LastReleaseDate": "May 15th, 2022",
+    "EventStoreContent": "Hybrid",
+    "Questlines": [],
+    "LTM": [],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "May",
+    "LastReleaseDate": "May 22th, 2022",
+    "EventStoreContent": "Sea Wolf Jonesy, Bundlebuss",
+    "Questlines": [],
+    "LTM": [],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "May",
+    "LastReleaseDate": "May 29th, 2022",
+    "EventStoreContent": "Freebooter Ken",
+    "Questlines": [],
+    "LTM": [],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "June",
+    "LastReleaseDate": "June 5th, 2022",
+    "EventStoreContent": "Diecast Jonesy, Chromium Rameriez",
+    "Questlines": [],
+    "LTM": [],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "June",
+    "LastReleaseDate": "June 12th, 2022",
+    "EventStoreContent": "Bowler",
+    "Questlines": [],
+    "LTM": [],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "June",
+    "LastReleaseDate": "June 19th, 2022",
+    "EventStoreContent": "Walloper",
+    "Questlines": [
+      {
+        "QuestName": "Imposter",
+        "Rewards": "Dennis"
+      }
+    ],
+    "LTM": [
+      {
+        "QuestName": "Hit the Road/Quinn",
+        "Rewards": "Rex Jonesy"
+      }
+    ],
+    "EventLlama": [
+      "Rad Llama"
+    ],
+    "Ventures": "Blasted Badlands"
+  },
+  {
+    "Month": "June",
+    "LastReleaseDate": "June 26th, 2022",
+    "EventStoreContent": "Tricera Ops Ramirez",
+    "Questlines": [],
+    "LTM": [
+      {
+        "QuestName": "Hit the Road/Crackshot",
+        "Rewards": "Staccato Shotto"
+      }
+    ],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "July",
+    "LastReleaseDate": "July 3rd, 2022",
+    "EventStoreContent": "Patriot Penny, Old Glory A.C, Stars and Stripes Jonesy, Star-Spangled Headhunter",
+    "Questlines": [],
+    "LTM": [
+      {
+        "QuestName": "Hit the Road/Penny",
+        "Rewards": " 500 Gold & 500 Tickets"
+      }
+    ],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "July",
+    "LastReleaseDate": "July 10th, 2022",
+    "EventStoreContent": "Prehistoric Izza",
+    "Questlines": [
+      {
+        "QuestName": "Flight of the Fennix",
+        "Rewards": "Fennix"
+      }
+    ],
+    "LTM": [
+      {
+        "QuestName": "Hit the Road/Cloaked Star",
+        "Rewards": "Ankylo Kyle"
+      }
+    ],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "July",
+    "LastReleaseDate": "July 17th, 2022",
+    "EventStoreContent": "Jurassic Ken",
+    "Questlines": [],
+    "LTM": [
+      {
+        "QuestName": "Hit the Road/Quinn Pt.2",
+        "Rewards": "Whiteout Fiona"
+      }
+    ],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "July",
+    "LastReleaseDate": "July 24th, 2022",
+    "EventStoreContent": "Dennis Jr",
+    "Questlines": [
+      {
+        "QuestName": "Birthday Mini Sploding Husks Quest",
+        "Rewards": "Birthday Llama"
+      },
+      {
+        "QuestName": "Beyond the Stellar Questline",
+        "Rewards": "Azalea Clark"
+      }
+    ],
+    "LTM": [
+      {
+        "QuestName": "Hit the Road/Well-travelled quest",
+        "Rewards": "Fossil Southie"
+      },
+      {
+        "QuestName": "Hit the Road/Crackshot Pt.2",
+        "Rewards": "Deciblaster"
+      }
+    ],
+    "EventLlama": [
+      "Birthday llama/Rad Llama"
+    ],
+    "Ventures": ""
+  },
+  {
+    "Month": "July",
+    "LastReleaseDate": "July 24th, 2022",
+    "EventStoreContent": "Dennis Jr",
+    "Questlines": [
+      {
+        "QuestName": "Birthday Mini Sploding Husks Quest",
+        "Rewards": "Birthday Llama"
+      },
+      {
+        "QuestName": "Beyond the Stellar Questline",
+        "Rewards": "Azalea Clark"
+      }
+    ],
+    "LTM": [
+      {
+        "LTMName": "Hit the Road/Well-travelled quest",
+        "Rewards": "Fossil Southie"
+      },
+      {
+        "LTMName": "Hit the Road/Crackshot Pt.2",
+        "Rewards": "Deciblaster"
+      }
+    ],
+    "EventLlama": [
+      "Birthday Llama",
+      "Rad Llama"
+    ],
+    "Ventures": ""
+  },
+  {
+    "Month": "July",
+    "LastReleaseDate": "July 31st, 2022",
+    "EventStoreContent": "Archaeolo-Jess",
+    "Questlines": [],
+    "LTM": [
+      {
+        "QuestName": "Hit the Road/Penny Pt.2",
+        "Rewards": " Parasaur Jess"
+      }
+    ],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "August",
+    "LastReleaseDate": "Aug 7th, 2022",
+    "EventStoreContent": "Surround Pound",
+    "Questlines": [
+      {
+        "QuestName": "Tales from Beyond Questline",
+        "Rewards": "Paleo Luna"
+      }
+    ],
+    "LTM": [
+      {
+        "QuestName": "Hit the Road/Cloaked Star Pt.2",
+        "Rewards": "Thunder Thora"
+      }
+    ],
+    "EventLlama": [
+      "Rad Llama"
+    ],
+    "Ventures": ""
+  },
+  {
+    "Month": "August",
+    "LastReleaseDate": "Aug 14th, 2022",
+    "EventStoreContent": "Redline Ramirez",
+    "Questlines": [],
+    "LTM": [
+      {
+        "QuestName": "Hit the Road/Quinn Pt.3",
+        "Rewards": "1000 Tickets & 1000 Gold & 2020 Loading Screen"
+      }
+    ],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "August",
+    "LastReleaseDate": "Aug 21st, 2022",
+    "EventStoreContent": "Tactical Assault Sledgehammer",
+    "Questlines": [],
+    "LTM": [
+      {
+        "QuestName": "Hit the Road/Beat Bot",
+        "Rewards": "1000 Tickets & 1000 Gold & 2019 Loading Screen"
+      }
+    ],
+    "EventLlama": [],
+    "Ventures": ""
+  },
+  {
+    "Month": "August",
+    "LastReleaseDate": "Aug 28th, 2022",
+    "EventStoreContent": "Hot Mix Pistol",
+    "Questlines": [],
+    "LTM": [],
+    "EventLlama": [],
+    "Ventures": ""
+  }
+]
