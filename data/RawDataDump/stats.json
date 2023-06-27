@@ -1,0 +1,127 @@
+{
+    "pageProps": {
+        "data": [
+            {
+                "slug": "c4s1",
+                "chapter": 4,
+                "season": 1,
+                "name": "Chapter 4",
+                "startsAt": "2023-03-01",
+                "endsAt": "2023-07-01",
+                "accentColor": "#00ffeb",
+                "image": "https://images.prismic.io/news-cms/71e3a479-0fa3-4e0e-8beb-19caa86216d3_social-image-battlepass-3840x2160-06a5af9381de.jpg?auto=compress,format&rect=0,0,3840,2160&w=1920&h=1080"
+            },
+            {
+                "slug": "c4s2",
+                "chapter": 4,
+                "season": 2,
+                "name": "MEGA",
+                "startsAt": "2023-03-10",
+                "endsAt": "2023-06-09",
+                "accentColor": "#ff00f5",
+                "image": "https://images.prismic.io/news-cms/cee7e4f8-21ad-40dd-af9d-ae6bc024c606_02fcf413314ec371836bf7e8c83bc6efd46663d70bbec07d9f6d43226d1105a0-c59a6555-ac5f-484c-a2d4-66e508c5b7c0.jpeg?auto=compress,format&rect=0,0,1920,1080&w=1920&h=1080"
+            },
+            {
+                "slug": "c4s3",
+                "chapter": 4,
+                "season": 3,
+                "name": "Tierras Salvajes",
+                "startsAt": "2023-06-09",
+                "endsAt": "2023-08-28",
+                "accentColor": "#dcff93",
+                "image": "https://images.prismic.io/news-cms/9472a788-45ce-4438-844b-f6f411f9109a_ac4bdb13b3df5abe51a57f2d6a1364549c503bcaf02b31ae28c747699da72243a3fd3c746ff482a480b8d5ec8d92e11b-74043715-512c-4df2-b02d-e70dd491e981.jpeg?auto=compress,format&rect=0,0,1920,1080&w=1920&h=1080"
+            }
+        ],
+        "messages": {
+            "Item": {
+                "mediaBtn": "Reproducir",
+                "mediaStopBtn": "Dejar de reproducir",
+                "trendingLabel": "Listas de Deseos",
+                "listsLabel": "My Lists",
+                "listsTitle": "Your Lists",
+                "wishlist": "Add to Wishlist",
+                "createList": "Create List",
+                "createContent": "Create a new List with {name}.",
+                "titleLabel": "Title",
+                "inputPlaceholder": "Star Wars",
+                "createBtn": "Create",
+                "limitHintMsg": "Keep it between 2 and 64 characters.",
+                "imagesTitle": "{cosmetic}'s Images",
+                "createImage": "Create",
+                "editLabel": "Edita la imagen",
+                "selectLabel": "Seleccionar",
+                "cancelBtn": "Cancel",
+                "downloadBtn": "Download",
+                "imageLabel": "Imagen",
+                "nameLabel": "Nombre",
+                "descriptionLabel": "Descripción",
+                "typeLabel": "Tipo",
+                "rarityLabel": "Rareza",
+                "stylesLabel": "Includes {num} Styles",
+                "setTitle": "Part of the {name} Set",
+                "setContent": "El conjunto {name} contiene {num} cosméticos.",
+                "releaseHistory": "Item Shop History",
+                "statelessShop": "{name} has not released in the Item Shop.",
+                "releaseLabel": "First Release",
+                "occurrencesLabel": "Occurrences",
+                "lastSeenLabel": "Last Seen",
+                "daysAgo": "{numDays} days ago",
+                "today": "today",
+                "yesterday": "yesterday",
+                "obtainLabel": "Available In",
+                "copyClipboard": "Copiado al portapapeles",
+                "loginBtn": "Sign In"
+            },
+            "Footer": {
+                "home": "Home",
+                "followUs": "Twitter",
+                "aboutUs": "About Us",
+                "privacy": "Privacy Policy",
+                "legal1": "All rights reserved.",
+                "epicLegal": "This website is not sponsored, endorsed or administered by Epic Games, Inc."
+            },
+            "Nav": {
+                "cosmetics": "Cosmetics",
+                "newCosmetics": "Latest Cosmetics",
+                "searchCosmetics": "Search cosmetics",
+                "packs": "Packs",
+                "itemshop": "Item Shop",
+                "todayShop": "Today's Item Shop",
+                "shopHistory": "History",
+                "blog": "Blog",
+                "players": "Player Count",
+                "saveTheWorld": "Save The World",
+                "calendar": "Calendar",
+                "competitive": "Competitive",
+                "tierlists": "Tierlists",
+                "exploreTierlists": "Explore",
+                "createTierlist": "Create",
+                "augments": "Augments",
+                "creative": "Creative",
+                "discover": "Discover",
+                "login": "Sign In",
+                "wishlist": "My Wishlist",
+                "rankedSearch": "Search Players",
+                "rankedTop": "Global Leaderboard",
+                "Locales": {
+                    "es": "Español",
+                    "en": "English",
+                    "fr": "Français",
+                    "de": "Deutsch",
+                    "it": "Italiano",
+                    "ja": "日本語",
+                    "pt-BR": "Português"
+                }
+            },
+            "Tropical": {
+                "socialTitle": "Get Ready for Fortnite Chapter 4 - Season 3",
+                "socialContent": "Things are about to get WILD! Chapter 4 Season 3: WILDS starts June 9.",
+                "pageTitle": "Chapter 4 — Season 3",
+                "pageContent": "Things are about to get WILD! WILDS starts June 9.",
+                "nameLabel": "CHOOSE YOUR OUTFIT",
+                "btnText": "Download"
+            }
+        }
+    },
+    "__N_SSG": true
+}

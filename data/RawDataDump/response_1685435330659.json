@@ -1,0 +1,228 @@
+{
+  "result": true,
+  "lang": "en",
+  "rarities": [
+    {
+      "id": "Common",
+      "name": "COMMON",
+      "translationID": "CommonRarity",
+      "colors": {
+        "Color1": "#B1B1B1",
+        "Color2": "#79858E",
+        "Color3": "#2D3237",
+        "Color4": "#0D1013",
+        "Color5": "#050509"
+      },
+      "image": "https://media.fortniteapi.io/images/rarities/v2/rarity_common.png"
+    },
+    {
+      "id": "Epic",
+      "name": "Epic",
+      "translationID": "Epic",
+      "colors": {
+        "Color1": "#D505FF",
+        "Color2": "#9D19FF",
+        "Color3": "#2E07A6",
+        "Color4": "#120233",
+        "Color5": "#07040A"
+      },
+      "image": "https://media.fortniteapi.io/images/rarities/v2/rarity_epic.png"
+    },
+    {
+      "id": "Legendary",
+      "name": "LEGENDARY",
+      "translationID": "LegendaryRarity",
+      "colors": {
+        "Color1": "#F68B20",
+        "Color2": "#FF4203",
+        "Color3": "#851400",
+        "Color4": "#410B03",
+        "Color5": "#0A0302"
+      },
+      "image": "https://media.fortniteapi.io/images/rarities/v2/rarity_legendary.png"
+    },
+    {
+      "id": "Mythic",
+      "name": "MYTHIC",
+      "translationID": "MythicRarity",
+      "colors": {
+        "Color1": "#FFDE61",
+        "Color2": "#C89214",
+        "Color3": "#854A04",
+        "Color4": "#331C05",
+        "Color5": "#0A0603"
+      },
+      "image": "https://media.fortniteapi.io/images/rarities/v2/rarity_mythic.png"
+    },
+    {
+      "id": "Rare",
+      "name": "RARE",
+      "translationID": "RareRarity",
+      "colors": {
+        "Color1": "#00FFF6",
+        "Color2": "#006DFF",
+        "Color3": "#001985",
+        "Color4": "#000F41",
+        "Color5": "#03060A"
+      },
+      "image": "https://media.fortniteapi.io/images/rarities/v2/rarity_rare.png"
+    },
+    {
+      "id": "Transcendent",
+      "name": "Exotic",
+      "translationID": "3802651D453178554363A8B5077F4773",
+      "colors": {
+        "Color1": "#00B5F6",
+        "Color2": "#00FF69",
+        "Color3": "#2E85FF",
+        "Color4": "#260D41",
+        "Color5": "#0A040A"
+      },
+      "image": "https://media.fortniteapi.io/images/rarities/v2/rarity_transcendent.png"
+    },
+    {
+      "id": "Uncommon",
+      "name": "UNCOMMON",
+      "translationID": "UncommonRarity",
+      "colors": {
+        "Color1": "#5BFD00",
+        "Color2": "#1E8500",
+        "Color3": "#003700",
+        "Color4": "#001400",
+        "Color5": "#000800"
+      },
+      "image": "https://media.fortniteapi.io/images/rarities/v2/rarity_uncommon.png"
+    }
+  ],
+  "series": [
+    {
+      "id": "CUBESeries",
+      "name": "DARK SERIES",
+      "translationID": "026582AC484D7EF4AD6514AD91D1F2B7",
+      "colors": {
+        "Color1": "#ff138e",
+        "Color2": "#9d006b",
+        "Color3": "#600063",
+        "Color4": "#1c0232",
+        "Color5": "#0a030a"
+      },
+      "image": "https://media.fortniteapi.io/images/rarities/v2/T-Cube-Background.png"
+    },
+    {
+      "id": "DCUSeries",
+      "name": "DC SERIES",
+      "translationID": "6C4F988547A26C1781CB3ABE6A22BC47",
+      "colors": {
+        "Color1": "#0031e0",
+        "Color2": "#001664",
+        "Color3": "#000c39",
+        "Color4": "#000723",
+        "Color5": "#00030f"
+      },
+      "image": "https://media.fortniteapi.io/images/rarities/v2/T-BlackMonday-Background.png"
+    },
+    {
+      "id": "FrozenSeries",
+      "name": "Frozen Series",
+      "translationID": "5455D6D8465FE4780106D68B2793FD18",
+      "colors": {
+        "Color1": "#afd7ff",
+        "Color2": "#0019d8",
+        "Color3": "#0053a8",
+        "Color4": "#0019d8",
+        "Color5": "#3db9ff"
+      },
+      "image": "https://media.fortniteapi.io/images/rarities/v2/T_Ui_LavaSeries_Frozen.png"
+    },
+    {
+      "id": "CreatorCollabSeries",
+      "name": "Icon Series",
+      "translationID": "2C0AC5B3409B6D235CE987ADF8F4C69D",
+      "colors": {
+        "Color1": "#1be2e4",
+        "Color2": "#069496",
+        "Color3": "#00122a",
+        "Color4": "#001516",
+        "Color5": "#000106"
+      },
+      "image": "https://media.fortniteapi.io/images/rarities/v2/T_Ui_CreatorsCollab_Bg.png"
+    },
+    {
+      "id": "LavaSeries",
+      "name": "Lava Series",
+      "translationID": "4CF04BC540D11EB19DC7F4A6E3833F1B",
+      "colors": {
+        "Color1": "#f39d09",
+        "Color2": "#b50401",
+        "Color3": "#520009",
+        "Color4": "#1b001c",
+        "Color5": "#0c000e"
+      },
+      "image": "https://media.fortniteapi.io/images/rarities/v2/T_Ui_LavaSeries_Bg.png"
+    },
+    {
+      "id": "MarvelSeries",
+      "name": "MARVEL SERIES",
+      "translationID": "E2C22C3941DFB2F48BC6E3AF5310B521",
+      "colors": {
+        "Color1": "#d70204",
+        "Color2": "#ab0000",
+        "Color3": "#730000",
+        "Color4": "#1e0000",
+        "Color5": "#050000"
+      },
+      "image": "https://media.fortniteapi.io/images/rarities/v2/Marvel.png"
+    },
+    {
+      "id": "PlatformSeries",
+      "name": "Gaming Legends Series",
+      "translationID": "0E372C464F123AAF34D0DBAA918F94ED",
+      "colors": {
+        "Color1": "#3730FF",
+        "Color2": "#1605AB",
+        "Color3": "#0C0250",
+        "Color4": "#05011D",
+        "Color5": "#010005"
+      },
+      "image": "https://media.fortniteapi.io/images/rarities/v2/platformseries.png"
+    },
+    {
+      "id": "ShadowSeries",
+      "name": "Shadow Series",
+      "translationID": "A5FCAB9A43CD7D4D0281759B9451F191",
+      "colors": {
+        "Color1": "#ffffff",
+        "Color2": "#515151",
+        "Color3": "#111111",
+        "Color4": "#020202"
+      },
+      "image": "https://media.fortniteapi.io/images/rarities/v2/T_Ui_LavaSeries_Shadow.png"
+    },
+    {
+      "id": "SlurpSeries",
+      "name": "Slurp Series",
+      "translationID": "357A5F1B41A9BFFBCE66EFB8D99B360D",
+      "colors": {
+        "Color1": "#03f1ed",
+        "Color2": "#09b26a",
+        "Color3": "#008be0",
+        "Color4": "#0248ff",
+        "Color5": "#0241b2"
+      },
+      "image": "https://media.fortniteapi.io/images/rarities/v2/Slurp.png"
+    },
+    {
+      "id": "ColumbusSeries",
+      "name": "Star Wars Series",
+      "translationID": "D7ACC92E413C92A3E010A6B65369D003",
+      "colors": {
+        "Color1": "#ffaf00",
+        "Color2": "#041771",
+        "Color3": "#000208",
+        "Color4": "#000001",
+        "Color5": "#000000"
+      },
+      "image": "https://media.fortniteapi.io/images/rarities/v2/ColumbusSeries.png"
+    }
+  ]
+}
