@@ -1,6 +1,6 @@
-# Fortnite STW • Resources and References
+# Fortnite // Save the World // Resources and References
 
-Miscellaneous files all related or pertaining to **Fortnite: Save the World**.
+Miscellaneous files all related or pertaining to **Fortnite: Save the World**. Generally speaking, this data is going to be a random collection of files I've obtained throughout the years, nothing too special.
 
 ---
 
@@ -12,11 +12,16 @@ Miscellaneous files all related or pertaining to **Fortnite: Save the World**.
 
 ---
 
-## Save the World
+# Save the World
+
+## Our Community Manager(s) are/were recently fired / Leg go" of their child's behavior.
+
+- ![Free V-Bucks Mision(s)](https://stw-planner.com/mission-alerts/v-buck-missions)
+
 
 ### FortniteDB.com
 
-> ![FortniteDB-Logo](https://b2.fortnitedb.com/file/peepoT/logo-small.svg)
+> ![FortniteDB-Logo]([[https://b2.fortnitedb.com/file/peepoT/logo-small.svg](https://fortnitedb.com/apple-touch-icon.png)](https://fortnitedb.com/apple-touch-icon.png))
 
 - **User Profiles:**
     - [FortniteDB / Profiles / XiL Destruction](https://fortnitedb.com/profile/XiL%20Destruction)
@@ -29,7 +34,7 @@ Miscellaneous files all related or pertaining to **Fortnite: Save the World**.
 -   **DB / Heroes:** https://stw-planner.com/heroes
 -   **DB / Schematics / Weapons:** https://stw-planner.com/schematics/weapons
 -   **Profiles / Basaku:** https://stw-planner.com/profiles/Basaku
--   **Profiles / XiL Destruction:** https://stw-planner.com/profiles/XiL%20Destruction
+-   **Profiles / XiL Destruction:** https://stw-planner.com/profiles/%E4%B9%88%20Destruction
 
 ---
 
